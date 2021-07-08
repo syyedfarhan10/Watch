@@ -1,0 +1,103 @@
+.section1 {
+  text-align: center;
+  height: 8vw;
+  border-bottom: 5px double;
+  background: linear-gradient(to bottom right,   #053742,#0A1931, #39A2DB);
+}
+
+.head {
+  display: inline-block;
+  color: black;
+  font-weight: 500;
+  font-size: 2rem;
+  font-family: 'Lobster', cursive;
+  color: snow;
+}
+
+.art {
+  padding-top: 20px;
+  font-size: 22px;
+  font-family: 'Libre Baskerville', serif;
+  text-shadow: none;
+  text-decoration: none;
+
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-size: 17px;
+  font-family: 'Libre Baskerville', serif;
+  background: linear-gradient(to bottom right, #FFF5DA,#FFED99,#66c2ff,#000099,black);
+}
+
+li{
+   color: #F8EDED;
+   font-family: monospace;
+}
+.menu {
+  background: snow;
+  margin: 0;
+  height: 3vw;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95px;
+  height: 60px;
+}
+
+.pic1 {
+  width: 40vw;
+  height: 40vw;
+  float: left;
+}
+
+.select {
+  text-decoration: underline;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.btn {
+  width: 6vw;
+  height: 4vh;
+  border-radius: 5px;
+}
+
+.btn1 {
+  background-color: red;
+  color: red;
+}
+
+.btn2 {
+  background-color: #907FA4;
+  color: #907FA4;
+}
+
+.btn:hover{
+  opacity: 50%;
+  cursor: pointer;
+  border: none;
+}
+
+.btn3 {
+  background-color: #FAEBE0;
+  color: #FAEBE0;
+}
+
+.btn4 {
+  background-color: black;
+}
+
+.btn5 {
+  background-color: #9F5F80;
+  color: #9F5F80;
+}
+
+div {
+  margin: 2vw;
+}
